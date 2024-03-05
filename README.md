@@ -7,5 +7,5 @@ The intensity ratio of the primary graphene spot to the primary SiC spot is used
 This ratio is effective for determining graphene thicknesses in the range 1 to 3 monolayers.
 
 Operation of LEED conditions:
-Beam Energy => 100 e.V
+Beam Energy => 100 e.V ;
 Ultra-High-Vacuum => base pressure e^-10 torr
